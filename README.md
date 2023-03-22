@@ -1,5 +1,5 @@
 # impoved-information-retrieval-model
-Check out the basic retrieval models HERE [link](https://github.com/Ed-Cheng/information-retrieval-model).
+Check out the [basic retrieval models](https://github.com/Ed-Cheng/information-retrieval-model).
 
 
 To run all the files, you will need:
